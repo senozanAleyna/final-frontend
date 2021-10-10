@@ -3,7 +3,7 @@ This project is the front-end side of FinalProject in my repositories. You can f
 
 :point_right:  [Final Project](https://github.com/senozanAleyna/FinalProject)
 
-And kamp-frontend was generated with Angular CLI version 11.2.3. 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
 The framework is used at the entry level :baby: to visualize the backend project.
 
 
