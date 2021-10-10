@@ -1,6 +1,6 @@
 # kamp-frontend
 This project is the front-end side of FinalProject in my repositories. You can find the back end project here, 
-[Final Project](https://github.com/senozanAleyna/FinalProject)
+:point_right:  [Final Project](https://github.com/senozanAleyna/FinalProject)
 
 and kamp-frontend was generated with Angular CLI version 11.2.3. 
 The framework is used at the entry level to visualize the backend project.
