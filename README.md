@@ -1,5 +1,5 @@
 # kamp-frontend
-This project is the front-end side of FinalProject in my repositories. You can find the back end project here,
+This project is the front-end side of FinalProject in my repositories. You can find the back-end project here,
 
 :point_right:  [Final Project](https://github.com/senozanAleyna/FinalProject)
 
